@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lost &amp; Found Locator</string>
+    <string-array name="post_type_array">
+        <item>Lost</item>
+        <item>Found</item>
+    </string-array>
+</resources>
